@@ -1,4 +1,4 @@
-# color_game
+# Color-Game
 Guess which color the RGB code represents!
 
 Each number is between 0 and 255, inclusive. 
